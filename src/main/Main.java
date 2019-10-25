@@ -19,7 +19,7 @@ public class Main {
      */
     public static void main(String[] args) {  
         try {
-            int filas = Lectura.readInteger("Ingrese la cantidad de filas");
+            int filas = Lectura.readInteger("Ingrese la cantidad de filasssss");
             int sillas = Lectura.readInteger("Ingrese la cantidad de sillas por fila");
             int numSolicitudes = Lectura.readInteger("Ingrese la cantidad de solicitudes");
             Solicitud[] solicitudes = Lectura.readTextFile("E:\\txt de prueba\\solicitudes.txt", numSolicitudes);
